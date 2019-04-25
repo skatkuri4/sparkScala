@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3b170cf4-5ea8-46a7-b914-61f49ca5e660" name="Default Changelist" comment="commit v0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,11 +42,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+            <state relative-caret-position="150">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -55,15 +56,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="6" column="55" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/file2.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -85,10 +77,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/scala/Test.scala" />
-        <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/SparkPi.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/SparkScala.scala" />
         <option value="$PROJECT_DIR$/file2.txt" />
+        <option value="$PROJECT_DIR$/build.sbt" />
       </list>
     </option>
   </component>
@@ -223,8 +215,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49392098" visible="true" weight="0.26923078" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49392098" visible="true" weight="0.26923078" />
       <window_info id="Structure" order="1" sideWeight="0.506079" side_tool="true" visible="true" weight="0.26923078" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -240,7 +233,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4963181" weight="0.32889965" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4993895" weight="0.32959184" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" sideWeight="0.47938144" weight="0.32889965" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.48779" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.48779" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.51221" side_tool="true" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Build" order="11" sideWeight="0.47802198" weight="0.31836733" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49484536" weight="0.32889965" />
@@ -426,10 +419,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
+    <entry file="file://$PROJECT_DIR$/file2.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="65" selection-start-line="7" selection-start-column="65" selection-end-line="7" selection-end-column="65" />
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -440,10 +433,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/file2.txt">
+    <entry file="file://$PROJECT_DIR$/build.sbt">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="8" />
+        <state relative-caret-position="150">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
